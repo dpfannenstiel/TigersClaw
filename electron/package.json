@@ -1,0 +1,23 @@
+{
+  "name": "tigersclaw",
+  "version": "1.0.0",
+  "description": "A data bank for the Tiger's Claw.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpfannenstiel/TigersClaw.git"
+  },
+  "author": "Dustin Pfannenstiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpfannenstiel/TigersClaw/issues"
+  },
+  "homepage": "https://github.com/dpfannenstiel/TigersClaw#readme",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
